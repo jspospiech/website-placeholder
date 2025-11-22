@@ -2,6 +2,7 @@
 A responsive basic place holder to display on domain janpospiech.com while I work on my prettier portfolio website
 
 Written in HTML, CSS and a sprinke of JS
-Fonts are hosted within the project in compliance with German general data protection regulations (GDPR / DSGVO)
 
-Live demo at https://www.janpospiech.com until I find the time to replace it with a fancier portfolio website
+Fonts are hosted within the project to be deployed on German Servers only in compliance with German general data protection regulations (GDPR / DSGVO)
+
+Live demo will go online at https://www.janpospiech.com once it is ready and will be on display until I find the time to replace this with a fancier portfolio website
