@@ -1,4 +1,8 @@
 # website-placeholder
+
+
+![screenshot of the Website Placeholder Project](doc/screenshot1.png "Screenshot of the Website Placeholder Project")
+
 A responsive basic place holder to display on domain janpospiech.com while I work on my prettier portfolio website
 
 Written in HTML, CSS and a sprinke of JS
