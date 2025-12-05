@@ -243,7 +243,6 @@ section {
 /* ICONS */
 
 .icon {
-    cursor: pointer;
     height: 2rem;
 }
 
@@ -321,6 +320,8 @@ section {
     position: absolute;
     right: -5rem;
     bottom: 2.5rem;
+    height: 2rem;
+    cursor: pointer;
 }
 
 .details-container {
@@ -375,7 +376,7 @@ section {
 article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
+    justify-content: left;
     gap: 0.5rem;
 }
 
